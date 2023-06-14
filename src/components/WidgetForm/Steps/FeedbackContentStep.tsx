@@ -1,7 +1,7 @@
 import { FeedbackType } from '..'
 import { CloseButton } from '../../CloseButton'
 import { feedbackTypes } from '../../../utils/feedbackTypes'
-import { ArrowLeft, Camera } from 'phosphor-react'
+import { ArrowLeft } from 'phosphor-react'
 import ScreenshotButton from '../ScreenshotButton'
 import { useState } from 'react'
 
